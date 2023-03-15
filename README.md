@@ -1,7 +1,13 @@
-# Maximizing ChatGPT's Potential with Keywords
+# Maximizing ChatGPT's Potential with Keywords and Tips
 This repository contains a comprehensive collection of keywords related to ChatGPT, a state-of-the-art language model developed by OpenAI. The keywords in this repository have been carefully curated to provide a useful resource for anyone interested in using ChatGPT for various NLP tasks. 
 
 Whether you're a researcher, a developer, or just someone looking to learn more about this cutting-edge technology, you'll find valuable information in this repository. So take a look around, and start exploring the exciting world of ChatGPT!
+
+## Meta questioning
+Meta-questioning involves posing questions about the questions or answers themselves, which can enhance the effectiveness of your interactions with AI like ChatGPT. This technique allows for a deeper understanding of the AI's thought processes and potential limitations. After receiving a satisfactory response from ChatGPT, use the following prompt to explore meta-questioning:
+
+Prompt: `What is the exact prompt I would have to give you next time to get this result?`
+
 
 ## Requesting explanations:
 
