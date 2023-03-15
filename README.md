@@ -8,6 +8,15 @@ Meta-questioning involves posing questions about the questions or answers themse
 
 Prompt: `What is the exact prompt I would have to give you next time to get this result?`
 
+Some examples of meta-questions include:
+
+- `Is this question clear and specific enough?`
+- `What assumptions are being made in this question?`
+- `Is this question relevant to the problem or goal at hand?`
+- `Are there any hidden biases or perspectives in this question?`
+- `What information do we need to answer this question accurately?`
+- `Are there alternative ways to phrase this question that may lead to different insights?`
+
 
 ## Requesting explanations:
 
