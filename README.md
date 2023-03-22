@@ -17,6 +17,9 @@ Some examples of meta-questions include:
 - `What information do we need to answer this question accurately?`
 - `Are there alternative ways to phrase this question that may lead to different insights?`
 
+## [Research Prompt](/research-prompt.md)
+
+## [Tech Research Prompt](/tech-research-prompt.md)
 
 ## Requesting explanations:
 
