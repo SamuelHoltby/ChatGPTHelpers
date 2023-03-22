@@ -2,8 +2,12 @@
 
 Delve into an all-encompassing examination of a subject of your choice by investigating its historical development, current state, and future prospects, while considering public opinion, ethical concerns, cross-disciplinary connections, and various sociocultural, environmental, and demographic factors that shape its perception and impact.
 
-> Please provide a comprehensive overview of [insert subject] by addressing the following aspects:
->
+Simply replace _________ with your subject.
+
+> Where the tag [insert subject] appears, think of this as referring to _________:
+> 
+> Provide a thorough overview of [insert subject] by addressing the following aspects.
+> 
 > 1. Introduction: Briefly describe [insert subject] and its significance in the context of the field it belongs to.
 > 2. History: Outline the key historical developments and milestones related to [insert subject], highlighting important events, discoveries, or inventions that have shaped its evolution.
 > 4. Changes over time: Discuss the ways in which [insert subject] has evolved or transformed over the years, including any significant shifts in understanding, methodologies, or applications.
