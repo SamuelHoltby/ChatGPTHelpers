@@ -6,7 +6,7 @@ Simply replace _________ with your subject.
 
 > Where the tag [SUBJECT] appears, think of this as referring to _________:
 >
-> Provide a thorough overview of [SUBJECT] by addressing the following aspects.
+> Provide a thorough overview of [SUBJECT] by addressing the following aspects. Response with the questions and answers clearly formatted for readability. 
 > 
 > 1. **Introduction**: Briefly describe [SUBJECT] and its significance in the context of the field it belongs to.
 >
