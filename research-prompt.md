@@ -2,11 +2,13 @@
 
 Delve into an all-encompassing examination of a subject of your choice by investigating its historical development, current state, and future prospects, while considering public opinion, ethical concerns, cross-disciplinary connections, and various sociocultural, environmental, and demographic factors that shape its perception and impact.
 
-Simply replace _________ with your subject.
+## How to use it
+On the first line of the prompt you will see `_________`. Replace this with your subject. For example `Where the tag [SUBJECT] appears, think of this as referring to Cheese:`
 
+## The prompt
 > Where the tag [SUBJECT] appears, think of this as referring to _________:
 >
-> Provide a thorough overview of [SUBJECT] by addressing the following aspects. Response with the questions and answers clearly formatted for readability. 
+> Provide a thorough overview of [SUBJECT] by addressing the following aspects. Respond to the questions in a clear and well-organized manner.
 > 
 > 1. **Introduction**: Briefly describe [SUBJECT] and its significance in the context of the field it belongs to.
 >
